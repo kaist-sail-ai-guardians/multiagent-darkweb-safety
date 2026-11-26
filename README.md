@@ -2,23 +2,27 @@
 
 # Multi-Agent Dark-Web Safety
 
-**Follow the conversation. Measure the boundary.**
+**Trace information flow. Understand safety boundaries.**
 
-A synthetic testbed for studying how privacy violations emerge<br>
-and spread through multi-agent collaboration.
+A synthetic testbed for investigating how privacy violations<br>
+emerge, propagate, and escalate through multi-agent interactions.
 
 <p>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-2563eb?style=flat-square" alt="License: Apache 2.0"></a>
-  <a href="#quick-start"><img src="https://img.shields.io/badge/Python-3.11%2B-3776ab?style=flat-square" alt="Python 3.11 or newer"></a>
-  <a href="#quick-start"><img src="https://img.shields.io/badge/Node.js-20%2B-43853d?style=flat-square" alt="Node.js 20 or newer"></a>
-  <a href="#quick-start"><img src="https://img.shields.io/badge/Content-English_%C2%B7_Korean-7c3aed?style=flat-square" alt="English and Korean content"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-2563eb?style=flat-square" alt="License"></a>
+  <a href="#quick-start"><img src="https://img.shields.io/badge/Python-3.11%2B-3776ab?style=flat-square" alt="Python"></a>
+  <a href="#quick-start"><img src="https://img.shields.io/badge/Node.js-20%2B-43853d?style=flat-square" alt="Node.js"></a>
+  <img src="https://img.shields.io/badge/Language-English_%C2%B7_Korean-7c3aed?style=flat-square" alt="Languages">
 </p>
 
-[Quick start](#quick-start) · [Evaluation](#scenarios-and-evaluation) · [Add a scenario](#add-a-scenario) · [Contributing](CONTRIBUTING.md)
+<a href="assets/logo.png">
+  <img src="assets/logo.png" width="300" alt="Multi-Agent Dark-Web Safety">
+</a>
 
-<a href="assets/logo.png"><img src="assets/logo.png" width="300" alt="Multi-Agent Dark-Web Safety"></a>
+[Quick Start](#quick-start) · [Evaluation](#scenarios-and-evaluation) · [Scenarios](#add-a-scenario) · [Contributing](CONTRIBUTING.md)
 
-<sub>Multi-agent safety research · Synthetic scenarios · English &amp; Korean</sub>
+<sub>Multi-Agent Safety · Privacy Leakage · Synthetic Environments</sub>
+
+</div>
 
 </div>
 
